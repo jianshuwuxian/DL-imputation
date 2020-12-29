@@ -1,0 +1,5 @@
+new("big.matrix.descriptor", description = list(sharedType = "FileBacked", 
+    filename = "mvp.geno.bin", dirname = "./", totalRows = 729L, 
+    totalCols = 1940L, rowOffset = c(0, 729), colOffset = c(0, 
+    1940), nrow = 729, ncol = 1940, rowNames = NULL, colNames = NULL, 
+    type = "char", separated = FALSE))
